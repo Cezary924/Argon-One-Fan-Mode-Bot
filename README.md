@@ -1,4 +1,4 @@
-<h1 align=center>Cezary924-Argon-One-Fan-Mode-Bot</h1>
+<h1 align=center>Cezary924-Argon-One-Fan-Mode-Changer</h1>
 <h3 align=center>✇</h3>
 <h3 align=center>Change the behavior of the built-in fan at different times of the day</h3>
 
