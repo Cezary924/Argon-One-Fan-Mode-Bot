@@ -8,6 +8,6 @@
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, please contact me on cezary924@gmail.com. 
-Most reported vulnerability should be accepted. You can expect to get 
-an update on a reported vulnerability at least once a week.
+To report a vulnerability, please contact me or create an issue. 
+Most reported vulnerability should be accepted. You can expect to 
+get an update on a reported vulnerability at least once a week.
