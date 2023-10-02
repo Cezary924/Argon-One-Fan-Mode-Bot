@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Argon One Fan Mode Changer</h1>
-   <h3>✇</h3>
+   <h3>𖣘</h3>
    <h3>Automatycznie zmieniaj zachowanie wbudowanego wiatraka o róznych porach dnia</h3>
    <a href="https://github.com/Cezary924/Argon-One-Fan-Mode-Changer/blob/master/README.md" target="__blank"><img src="https://img.shields.io/badge/lang-en-blue.svg"></a>
    <a href="https://github.com/Cezary924/Argon-One-Fan-Mode-Changer/blob/master/README.pl-pl.md" target="__blank"><img src="https://img.shields.io/badge/lang-pl-red.svg"></a>
