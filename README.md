@@ -2,8 +2,8 @@
    <h1>Argon One Fan Mode Changer</h1>
    <h3>𖣘</h3>
    <h3>Change the behavior of the built-in fan at different times of the day</h3>
-   <a href="https://github.com/Cezary924/Argon-One-Fan-Mode-Changer/blob/master/README.md" target="__blank"><img src="https://img.shields.io/badge/lang-en-blue.svg"></a>
-   <a href="https://github.com/Cezary924/Argon-One-Fan-Mode-Changer/blob/master/README.pl-pl.md" target="__blank"><img src="https://img.shields.io/badge/lang-pl-red.svg"></a>
+   <a href="https://github.com/Cezary924/Argon-One-Fan-Mode-Changer/blob/master/README.md" target="__blank"><img alt="A badge with a label 'Lang 🇬🇧' - a link takes to README file in English" src="https://img.shields.io/badge/Lang-🇬🇧-012169?style=for-the-badge"></a>
+   <a href="https://github.com/Cezary924/Argon-One-Fan-Mode-Changer/blob/master/README.pl-pl.md" target="__blank"><img alt="A badge with a label 'Lang 🇵🇱' - a link takes to README file in Polish" src="https://img.shields.io/badge/Lang-🇵🇱-dc143c?style=for-the-badge"></a>
 </div><br/>
 
 ## ⚙️ Installation & Configuration</h3>
